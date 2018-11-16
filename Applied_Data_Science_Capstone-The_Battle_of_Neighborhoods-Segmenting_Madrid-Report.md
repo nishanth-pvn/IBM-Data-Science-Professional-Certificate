@@ -5,7 +5,7 @@
 
 
 
-1. [Introduction](#Introduction)
+- [Introduction](#Introduction)
 - [Data](#Data)
 - [Methodology](#Methodology)
 - [Results](#Results)
